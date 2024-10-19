@@ -1,0 +1,11 @@
+# run following commands in command prompt in the targeted folder
+# file statuses: untracked tracked Modfied staged commit
+git --version
+git init
+git status
+git add
+git add . # for all files in folder
+git add filename1 filename2 //for selective fies
+# after adding tracking status
+# next to commit in local respository. first need to stage changes using git add
+git log # shows what we have comitted before

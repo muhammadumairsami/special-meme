@@ -9,3 +9,4 @@ git add filename1 filename2 //for selective fies
 # after adding tracking status
 # next to commit in local respository. first need to stage changes using git add
 git log # shows what we have comitted before
+git commit -m "Add student gradings help"
